@@ -1,7 +1,7 @@
 # ECG Signal Acquisition and Data Processing Circuit and Software Development
 [![MATLAB Version](https://img.shields.io/badge/MATLAB-R2019b-%234285F4?style=flat-square)](https://ch.mathworks.com/products/new_products/latest_features.html)
-[![build](https://img.shields.io/badge/build-passing%20-brightgreen?style=flat-square)](#)
 [![license](https://img.shields.io/badge/license-AGPL%203.0-%23F65314?style=flat-square)](LICENSE)
+[![DOI](https://zenodo.org/badge/233572297.svg)](https://zenodo.org/badge/latestdoi/233572297)
 
 ## Description
 
